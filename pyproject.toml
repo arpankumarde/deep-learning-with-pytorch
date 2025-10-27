@@ -1,7 +1,7 @@
 [project]
 name = "deep-learning-with-pytorch"
 version = "0.1.0"
-description = "Add your description here"
+description = "This repository contains code examples and implementations of deep learning concepts using PyTorch. The focus is on practical applications and understanding the fundamentals of deep learning."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
